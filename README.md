@@ -1,1 +1,1 @@
-<h1>Learnming Git</h>
+<h1>Learning Git</h>
