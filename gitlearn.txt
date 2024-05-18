@@ -3,3 +3,6 @@ I am Saleh Akram.
 I am 23 years old.
 I am learning git.
 I am happy
+I am adding more.
+I love Allah.
+Try to learning.
