@@ -15,6 +15,7 @@ I'm currently learning full-stake web development and C programming. I am learni
 I am studying in Computer Science and Engineerig at Daffidil International University.
 
 **Work Experience:**
+I don't have any
 
 **Certifications:**
 
