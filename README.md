@@ -1,5 +1,3 @@
-<h>Learning Git</h>
-
 **Intoduction:**
 
 I am Saleh Akram. Saleh means honest. I always try to be an honest preson.
